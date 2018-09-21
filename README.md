@@ -4,4 +4,4 @@ NSEpy is a library to extract historical and realtime data from NSE's website. T
 
 To install NSEpy enter following command in terminal
 
-#pip install nsepy
+# pip install nsepy
